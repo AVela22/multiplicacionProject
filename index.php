@@ -3,7 +3,7 @@
 <head>
     <title>Multiplicación</title>
 </head>
-<body>
+<body style="background:gray; color:white;">
     <form method="POST" action="">
         <label for="numero1">Número 1:</label>
         <input type="number" name="numero1" id="numero1" required><br><br>
